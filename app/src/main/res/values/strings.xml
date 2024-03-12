@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragmentos</string>
+    <string name="home_title">Inicio</string>
+    <string name="menu">Menú</string>
+    <string name="calculator_title">Calculadora</string>
+    <string name="imc_title">IMC</string>
+</resources>
